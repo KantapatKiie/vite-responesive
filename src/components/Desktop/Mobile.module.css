@@ -1,0 +1,341 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.players {
+  position: absolute;
+  left: 0;
+  top: 608px;
+  width: 320px;
+  height: 483px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.bg {
+  position: absolute;
+  left: 0;
+  top: 297px;
+  width: 320px;
+  height: 186px;
+  background-color: #f5f4f9;
+}
+.dotPagination {
+  position: absolute;
+  left: 133px;
+  top: 448px;
+  width: 54px;
+  height: 10px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.saveYourTimeRecr {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 387px;
+  width: 280px;
+  height: min-content;
+  flex-direction: column;
+}
+.gROWTH {
+  color: #c2c2c2;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1.5px;
+  position: absolute;
+  left: 46px;
+  top: 339px;
+  width: 201px;
+  height: min-content;
+  flex-direction: column;
+}
+.underline {
+  position: absolute;
+  left: 18.9859px;
+  top: 364px;
+  width: 16.7606px;
+  height: 4px;
+  border-radius: 2.5px;
+  background-color: #603ebe;
+}
+._3 {
+  color: #000;
+  font-size: 14px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1.5px;
+  position: absolute;
+  left: 18px;
+  top: 346px;
+  width: 20px;
+  height: min-content;
+  flex-direction: column;
+}
+.graphicMobile {
+  position: absolute;
+  left: 50%;
+  top: 74px;
+  width: 302px;
+  height: 250px;
+  flex-direction: column;
+  align-items: flex-start;
+  transform: translateX(-50%);
+}
+.rectangle34Copy2 {
+  position: absolute;
+  left: 49px;
+  top: 0;
+  width: 15px;
+  height: 15px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle34Copy3 {
+  position: absolute;
+  left: 71px;
+  top: 9px;
+  width: 15px;
+  height: 15px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.path45 {
+  position: absolute;
+  left: 49px;
+  top: 109.918px;
+  width: 106.3462px;
+  height: 123.1992px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.path45Copy {
+  position: absolute;
+  left: 196.8906px;
+  top: 24.3223px;
+  width: 76.6909px;
+  height: 89.8378px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.basketball {
+  position: absolute;
+  left: 0;
+  top: 1px;
+  width: 302px;
+  height: 249px;
+  background-image:/* webpackIgnore: true */ url('/assets/basketball.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.z {
+  position: absolute;
+  left: 266px;
+  top: 150px;
+  width: 15px;
+  height: 15px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.pLAYERS {
+  color: #e7e7e7;
+  font-size: 50px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.athlets {
+  position: absolute;
+  left: 0;
+  top: 20px;
+  width: 320px;
+  height: 568px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.bg2 {
+  position: absolute;
+  left: 0;
+  top: 287px;
+  width: 320px;
+  height: 281px;
+  background-color: #f5f4f9;
+}
+.dotPagination2 {
+  position: absolute;
+  left: 133px;
+  top: 533px;
+  width: 54px;
+  height: 10px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.textContainer {
+  position: absolute;
+  left: 20px;
+  top: 370px;
+  width: 280px;
+  height: 138px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.workWithOtherStud {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 43px;
+  width: 280px;
+  height: min-content;
+  flex-direction: column;
+}
+.title {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 33px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.collaboration {
+  color: #c2c2c2;
+  font-size: 28px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1.5px;
+  position: absolute;
+  left: 28px;
+  top: 0;
+  width: 252px;
+  height: min-content;
+  flex-direction: column;
+}
+.number {
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 18px;
+  height: 22px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.underline2 {
+  position: absolute;
+  left: 0.9858px;
+  top: 18px;
+  width: 16.7606px;
+  height: 4px;
+  border-radius: 2.5px;
+  background-color: #603ebe;
+}
+._2 {
+  color: #000;
+  font-size: 14px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1.5px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: min-content;
+  flex-direction: column;
+}
+.graphicMobile2 {
+  position: absolute;
+  left: 51px;
+  top: 74px;
+  width: 218px;
+  height: 281px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.path452 {
+  position: absolute;
+  left: 16.3594px;
+  top: 12.9102px;
+  width: 178.8926px;
+  height: 197.2344px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle34 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  width: 15px;
+  height: 15px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle34Copy {
+  position: absolute;
+  left: 22px;
+  top: 20px;
+  width: 15px;
+  height: 15px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.aTHLETS {
+  color: #e7e7e7;
+  font-size: 50px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
